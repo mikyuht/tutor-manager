@@ -1,0 +1,56 @@
+[
+  {
+    "id": "market-leader",
+    "title": "Market Leader",
+    "publisher": "Pearson",
+    "skills": ["business"],
+    "levels": ["A2", "B1", "B2", "C1"],
+    "focus": "Business English course: meetings, negotiations, presentations",
+    "verified": true
+  },
+  {
+    "id": "business-result",
+    "title": "Business Result",
+    "publisher": "Oxford University Press",
+    "skills": ["business"],
+    "levels": ["A2", "B1", "B2", "C1"],
+    "focus": "Business English course with lots of speaking tasks",
+    "verified": true
+  },
+  {
+    "id": "cambridge-ielts",
+    "title": "Cambridge IELTS (practice test series)",
+    "publisher": "Cambridge University Press",
+    "skills": ["ielts"],
+    "levels": ["B2", "C1"],
+    "focus": "Real-format IELTS practice tests including speaking",
+    "verified": true
+  },
+  {
+    "id": "collins-speaking-ielts",
+    "title": "Collins English for IELTS: Speaking",
+    "publisher": "Collins",
+    "skills": ["ielts"],
+    "levels": ["B1", "B2", "C1"],
+    "focus": "IELTS speaking Parts 1-3, strategies and sample answers",
+    "verified": true
+  },
+  {
+    "id": "speakout",
+    "title": "Speakout",
+    "publisher": "Pearson",
+    "skills": ["general"],
+    "levels": ["A1", "A2", "B1", "B2", "C1"],
+    "focus": "General English course with speaking in every unit",
+    "verified": true
+  },
+  {
+    "id": "vocab-in-use",
+    "title": "English Vocabulary in Use",
+    "publisher": "Cambridge University Press",
+    "skills": ["general"],
+    "levels": ["A2", "B1", "B2", "C1"],
+    "focus": "Vocabulary building by topic, good for homework",
+    "verified": true
+  }
+]
