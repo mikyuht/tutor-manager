@@ -18,6 +18,8 @@ SYSTEM = (
     "Base every claim on the input and do not invent facts. "
     "Reply only with JSON using these keys, in this order: "
     "evidence (list of short quotes or observations from the input), "
+    "recurring_errors (list of short strings naming error patterns with a tiny example, "
+    "for example: past simple, 'I go' instead of 'I went'), "
     "strengths (list of short strings), weaknesses (list of short strings), "
     "estimated_level (one of A1, A2, B1, B2, C1, C2), "
     "confidence (low, medium or high), "
